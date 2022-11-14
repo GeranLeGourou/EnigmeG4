@@ -1,6 +1,6 @@
 [
 null,
-{"id":1,"expanded":true,"name":"Autoroute","order":1,"parentId":0,"scrollX":677,"scrollY":414.5},
+{"id":1,"expanded":true,"name":"Autoroute","order":1,"parentId":0,"scrollX":669,"scrollY":414.5},
 {"id":2,"expanded":false,"name":"École","order":2,"parentId":1,"scrollX":619,"scrollY":940.5},
-{"id":3,"expanded":false,"name":"Salle de classe","order":3,"parentId":1,"scrollX":619,"scrollY":352.5}
+{"id":3,"expanded":false,"name":"Salle de classe","order":3,"parentId":1,"scrollX":619,"scrollY":500.5}
 ]
